@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">makharij al-huruf</string>
+    <string name="repo_url">https://github.com/ridaafzalkhan/makharij-al-huruf.git</string>
+    <string name="Halqiyah">Halqiyah</string>
+    <string name="Lahaiyah">Lahatiyah</string>
+    <string name="Shajariyah_Haafiyah">Shajariyah_Haafiyah</string>
+    <string name="Tarfiyah">Tarfiyah</string>
+    <string name="Nit_Eeeyah">Nit_Eeeyah</string>
+    <string name="Lisaveyah">Lisaveyah</string>
+    <string name="Ghunna">Ghunna</string>
+</resources>
