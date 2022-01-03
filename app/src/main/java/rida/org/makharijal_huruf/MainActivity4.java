@@ -11,7 +11,7 @@ import android.widget.TextView;
 import java.util.Random;
 
 public class MainActivity4 extends AppCompatActivity {
-    Button btn1,btn2,btn3,btn4,btn5,btn6,btn7,btn8;
+    Button btn1,btn2,btn3,btn4,btn5,btn6,btn7,btn8,btn9;
     String[] hal = {"أ ہ", "ع ح", "غ خ"};
     String[] lah  = {"ق", "ک"};
     String[] tar  = {"ل", "ن", "ر"};
